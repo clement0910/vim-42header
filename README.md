@@ -22,7 +22,7 @@ Copy `42header.vim` to your `~/.vim/after/plugin/` folder. You're set!
 
 ### pathogen
 ```
-git clone https://github.com/clement0910/vim-42lyonheader.git --recursive && mv -v vim-42header ~/.vim/bundle/
+git clone https://github.com/clement0910/vim-42lyonheader.git --recursive && mv -v vim-42lyonheader ~/.vim/bundle/
 ```
 
 ## Thanks to pbondoer
