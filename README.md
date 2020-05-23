@@ -1,4 +1,4 @@
-# vim-42header
+# vim-42lyonheader
 a (better) vim header for 42 (lyon) projects
 
 ![fancy header image](https://imgur.com/download/GTD7kAo)
